@@ -1,0 +1,7 @@
+{
+  "name": "goopzer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
